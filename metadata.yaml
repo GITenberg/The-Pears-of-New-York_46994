@@ -1,4 +1,8 @@
 _repo: The-Pears-of-New-York_46994
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46994-h/images/cover.png
 creator:
   author:
     agent_name: Hedrick, U. P.
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34063
     wikipedia: http://en.wikipedia.org/wiki/Ulysses_Prentiss_Hedrick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46994#The-Pears-of-New-York
 gutenberg_issued: '2014-09-29'
 gutenberg_type: Text
 identifiers:
